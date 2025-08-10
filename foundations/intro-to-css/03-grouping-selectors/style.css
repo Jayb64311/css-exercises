@@ -1,0 +1,13 @@
+.classone {
+    color: white;
+    background-color: black;
+}
+
+.classtwo {
+    background-color: yellow;
+}
+
+.classone, .classtwo {
+    font-size: 28px;
+    font-type: "Helvetica", "Times New Roman", sans-serif;
+}
